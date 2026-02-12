@@ -3,20 +3,14 @@
 A production-ready **Kanban Board application** built using **React, TypeScript, and Vite** as part of a frontend assignment.  
 The application allows users to manage tasks efficiently across different workflow stages with a clean and responsive UI.
 
----
+##  Live Demo
+https://kanban-board-phi-virid.vercel.app/login
 
-## 🔗 Live Demo
-https://kanban-board-phi-virid.vercel.app
-
----
-
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates real-world **frontend development skills**, including component-based architecture, client-side routing, state management, drag-and-drop interactions, and production deployment.
 
----
-
-## ✨ Features
+##  Features
 
 - User Login and Logout flow  
 - Create and manage tasks  
@@ -30,9 +24,8 @@ This project demonstrates real-world **frontend development skills**, including 
 - Client-side routing with React Router  
 - Deployed on Vercel with SPA routing support  
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React**
 - **TypeScript**
@@ -45,7 +38,7 @@ This project demonstrates real-world **frontend development skills**, including 
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 kanban-board/
 ├── src/
@@ -64,8 +57,6 @@ kanban-board/
 ├── package.json
 └── README.md
 
-
----
 
 ## ⚙️ Installation & Local Setup
 
